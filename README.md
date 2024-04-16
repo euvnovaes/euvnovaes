@@ -1,4 +1,4 @@
-### <BEM VINDO/>👋
+### BEM VINDO👋
 
 <div style="display:flex;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
